@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Explorateur des cristaux 2D ---
+# Private context, for Claude only: never pushed to GitHub
+CLAUDE.md
+CLAUDE.local.md
+contexte/
+.claude/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Generated outputs (screenshots, exported figures)
+sorties/
